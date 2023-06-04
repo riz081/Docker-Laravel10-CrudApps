@@ -8,13 +8,13 @@
 
 
 ## Tools
-- Laragon(https://laragon.org/)
-- Docker(https://www.docker.com/)
+- Laragon(https://laragon.org)
+- Docker(https://www.docker.com)
 - Nginx(nginx.org)
 - PhpMyAdmin
 - PHP
 - MySql
-- Laravel 10(https://laravel.com/)
+- Laravel 10(https://laravel.com)
 
 ## Step
 - Install Docker Desktop
