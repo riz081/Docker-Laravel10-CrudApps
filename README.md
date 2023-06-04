@@ -15,3 +15,12 @@
 - PHP
 - MySql
 - Laravel 10(https://laravel.com/)
+
+## Step
+- Install Docker Desktop
+- Install Laragon, Create Project Folder
+- Create folder src, mysql, nginx in the project folder
+- Create file docker-compose.yml and Dockerfile in the project folder
+- Create file default.conf in the nginx folder
+- Build Up
+- Install Laravel 10
